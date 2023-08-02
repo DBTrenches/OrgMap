@@ -1,0 +1,10 @@
+{
+    "PsGitHubOrgMap": {
+        "ModuleVersion": "0.0.3"
+    },
+    "OrganizationName": "DBTrenches",
+    "Repository": {
+        "Name": "OrgMap",
+        "Directory": "~/GitHub/DBTrenches.OrgMap"
+    }
+}
