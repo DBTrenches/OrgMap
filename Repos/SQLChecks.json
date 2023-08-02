@@ -1,0 +1,10 @@
+{
+  "Name": "SQLChecks",
+  "Id": 242831174,
+  "Url": "https://github.com/DBTrenches/SQLChecks",
+  "Description": "Helper functions and tests for SQL Server",
+  "DefaultBranch": "master",
+  "Teams": {
+    "Maintainers": "maintain"
+  }
+}

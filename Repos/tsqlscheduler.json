@@ -1,0 +1,10 @@
+{
+  "Name": "tsqlscheduler",
+  "Id": 205045032,
+  "Url": "https://github.com/DBTrenches/tsqlscheduler",
+  "Description": null,
+  "DefaultBranch": "master",
+  "Teams": {
+    "Maintainers": "maintain"
+  }
+}

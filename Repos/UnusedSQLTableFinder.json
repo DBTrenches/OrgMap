@@ -1,0 +1,7 @@
+{
+  "Name": "UnusedSQLTableFinder",
+  "Id": 310153460,
+  "Url": "https://github.com/DBTrenches/UnusedSQLTableFinder",
+  "Description": "Run analysis against a SQL Server database and its replicas to find unused tables",
+  "DefaultBranch": "main"
+}

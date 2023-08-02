@@ -1,0 +1,7 @@
+{
+  "Name": "SQLBlobShipping",
+  "Id": 267604368,
+  "Url": "https://github.com/DBTrenches/SQLBlobShipping",
+  "Description": "Replay SQL Backups from blob (managed backups) to multiple target servers",
+  "DefaultBranch": "master"
+}

@@ -1,0 +1,7 @@
+{
+  "Name": "SqlCreateTable",
+  "Id": 130477956,
+  "Url": "https://github.com/DBTrenches/SqlCreateTable",
+  "Description": "Create Table without SMO",
+  "DefaultBranch": "master"
+}
